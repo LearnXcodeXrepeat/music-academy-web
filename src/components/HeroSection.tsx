@@ -22,7 +22,6 @@ function HeroSection() {
         <div className="mt-4">
           <Link href={"/courses"}>
             <Button
-              duration="4500"
               borderRadius="0.90rem"
               className="bg-white dark:bg-slate-800 text-black dark:text-white border-neutral-200 dark:border-slate-800 font-medium"
             >
